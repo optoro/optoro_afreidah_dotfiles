@@ -1,3 +1,4 @@
 #!/bin/bash
 
-ln -s ~/dotfiles/.bashrc ~/.bashrc
+# setup custom .bashrc
+ln -sf ~/dotfiles/.bashrc ~/.bashrc
